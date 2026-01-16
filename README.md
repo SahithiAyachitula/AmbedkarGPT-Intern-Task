@@ -1,4 +1,4 @@
-# AmbedkarGPT-Intern-Task
+# RAG AGENT USING OLLAMA
 
 This project is a Retrieval-Augmented Generation (RAG) command-line Q&A system built with Python  
 It answers questions **using only the content of Dr. B.R. Ambedkar's provided speech**.  
